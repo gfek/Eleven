@@ -88,3 +88,5 @@ optional arguments:
 ```
 
 ## Kibana
+
+![](https://raw.githubusercontent.com/gfek/Eleven/master/kibana_vis.png)
