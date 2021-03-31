@@ -7,7 +7,7 @@ elasticsearch==6.3.1
 furl==1.2.1
 idna==2.7
 libtaxii==1.1.111
-lxml==4.2.4
+lxml==4.6.3
 mixbox==1.0.3
 ordered-set==3.0.1
 orderedmultidict==1.0
