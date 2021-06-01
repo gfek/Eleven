@@ -16,5 +16,5 @@ pytz==2018.5
 requests==2.19.1
 six==1.11.0
 stix==1.2.0.6
-urllib3==1.23
+urllib3==1.26.5
 weakrefmethod==1.0.3
