@@ -1,5 +1,5 @@
 cabby==0.1.20
-certifi==2018.8.24
+certifi==2022.12.7
 chardet==3.0.4
 colorlog==3.1.4
 cybox==2.1.0.17
